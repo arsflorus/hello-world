@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hey,
+
+This is Ars Florus with our first Gthub!
